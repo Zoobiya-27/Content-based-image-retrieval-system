@@ -14,7 +14,7 @@ This project implements Content-Based Image Retrieval (CBIR) using three feature
 ## Performance Results
 | Feature Extraction Method | Precision | Recall |
 |--------------------------|-----------|--------|
-| Zernike Moments | 69.4 | 67.7 |
+| Zernike Moments | 73.4 | 66.7 |
 | Hu Moments | 0.4759 | 0.6899 |
 | Fourier Descriptors | 0.5766 | 0.6685 |
 
